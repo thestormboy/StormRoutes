@@ -5,8 +5,6 @@ namespace Router;
  * Parses the request URL to controller and method. Checks is requested method is public.
  * Also create an specific model class.
  *
- * @author Denis Chekirda <dchekirda at gmail.com>
- * @version {0.1.2}
  */
 class Router {
 
